@@ -1,0 +1,38 @@
+{
+  "files.autoSave": "afterDelay",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "php.suggest.basic": true,
+  "php.validate.enable": true,
+  "php.validate.executablePath": "/Applications/XAMPP/xamppfiles/bin/php",
+  "php.executables": {},
+  "php.debug.executablePath": "",
+  "php.executablePath": "",
+  "prettier.resolveGlobalModules": true,
+  "terminal.integrated.allowChords": false,
+  "[php]": {
+    "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+  },
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontFamily": "Cascadia Mono PL",
+  "scm.inputFontSize": 12,
+  "editor.fontSize": 12.5,
+  "window.zoomLevel": 1,
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.triggerExpansionOnTab": true,
+  "settingsSync.ignoredExtensions": [],
+  "liveServer.settings.donotVerifyTags": true,
+  "json.schemas": []
+}

@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "pseudo": "Clement",
+      "message": "Bonjour tout le monde",
+      "id": 1
+    },
+    {
+      "pseudo": "Clement",
+      "message": "Bonjour tout le monde",
+      "id": 3
+    },
+    {
+      "pseudo": "Clement",
+      "message": "Bonjour tout le monde",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Clement",
+      "age": "40ans",
+      "id": 1
+    },
+    {
+      "pseudo": "Clement",
+      "age": "40ans",
+      "id": 2
+    }
+  ]
+}
